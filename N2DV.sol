@@ -2,13 +2,13 @@
 
 pragma solidity 0.8.4;
 
-import "https://github.com/net2devcrypto/n2dstaking/002/Pausable.sol";
-import "https://github.com/net2devcrypto/n2dstaking/002/IN2DR.sol";
-import "https://github.com/net2devcrypto/n2dstaking/002/IERC721.sol";
-import "https://github.com/net2devcrypto/n2dstaking/002/ReentrancyGuard.sol";
-import "https://github.com/net2devcrypto/n2dstaking/002/ERC721Holder.sol";
-import "https://github.com/net2devcrypto/n2dstaking/002/IN2DVault.sol";
-import "https://github.com/net2devcrypto/n2dstaking/002/SafeERC20.sol";
+import "https://github.com/net2devcrypto/002/Pausable.sol";
+import "https://github.com/net2devcrypto/002/IN2DR.sol";
+import "https://github.com/net2devcrypto/002/IERC721.sol";
+import "https://github.com/net2devcrypto/002/ReentrancyGuard.sol";
+import "https://github.com/net2devcrypto/002/ERC721Holder.sol";
+import "https://github.com/net2devcrypto/002/IN2DVault.sol";
+import "https://github.com/net2devcrypto/002/SafeERC20.sol";
 
 contract N2DV is Pausable, ReentrancyGuard, ERC721Holder {
     using SafeMath for uint256;
