@@ -2,8 +2,8 @@
 
 pragma solidity 0.8.4;
 
-import "https://github.com/net2devcrypto/n2dstaking/002/Context.sol";
-import "https://github.com/net2devcrypto/n2dstaking/002/Initializable.sol";
+import "https://github.com/net2devcrypto/002/Context.sol";
+import "https://github.com/net2devcrypto/002/Initializable.sol";
 
 /**
  * @dev Contract module which provides a basic access control mechanism, where
