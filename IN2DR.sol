@@ -2,7 +2,7 @@
 
 pragma solidity 0.8.4;
 
-import "https://github.com/net2devcrypto/n2dstaking/002/IERC20.sol";
+import "https://github.com/net2devcrypto/002/IERC20.sol";
 
 interface IN2DR is IERC20 {
     function owner() external returns (address);
