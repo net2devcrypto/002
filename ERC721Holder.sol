@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.4;
 
-import "https://github.com/net2devcrypto/n2dstaking/002/IERC721Receiver.sol";
+import "https://github.com/net2devcrypto/002/IERC721Receiver.sol";
 
 /**
  * @dev Implementation of the {IERC721Receiver} interface.
