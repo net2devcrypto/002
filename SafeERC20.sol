@@ -2,9 +2,9 @@
 
 pragma solidity 0.8.4;
 
-import "https://github.com/net2devcrypto/n2dstaking/002/IERC20.sol";
-import "https://github.com/net2devcrypto/n2dstaking/002/SafeMath.sol";
-import "https://github.com/net2devcrypto/n2dstaking/002/Address.sol";
+import "https://github.com/net2devcrypto/002/IERC20.sol";
+import "https://github.com/net2devcrypto/002/SafeMath.sol";
+import "https://github.com/net2devcrypto/002/Address.sol";
 
 /**
  * @title SafeERC20
