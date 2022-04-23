@@ -2,11 +2,11 @@
 
 pragma solidity 0.8.4;
 
-import "https://github.com/net2devcrypto/n2dstaking/002/EnumerableSet.sol";
-import "https://github.com/net2devcrypto/n2dstaking/002/Ownable.sol";
-import "https://github.com/net2devcrypto/n2dstaking/002/SafeMath.sol";
-import "https://github.com/net2devcrypto/n2dstaking/002/IN2DR.sol";
-import "https://github.com/net2devcrypto/n2dstaking/002/IERC721.sol";
+import "https://github.com/net2devcrypto/002/EnumerableSet.sol";
+import "https://github.com/net2devcrypto/002/Ownable.sol";
+import "https://github.com/net2devcrypto/002/SafeMath.sol";
+import "https://github.com/net2devcrypto/002/IN2DR.sol";
+import "https://github.com/net2devcrypto/002/IERC721.sol";
 
 interface IN2DVault {
 
