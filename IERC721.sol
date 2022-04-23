@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.4;
 
-import "https://github.com/net2devcrypto/n2dstaking/002/IERC165.sol";
+import "https://github.com/net2devcrypto/002/IERC165.sol";
 
 /**
  * @dev Required interface of an ERC721 compliant contract.
